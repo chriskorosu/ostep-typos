@@ -1,0 +1,6 @@
+"second, that the 64-bit offset be used" should be
+"second, that the 64-bit offset is used"
+
+(grammatical error; the corrected tense is consistent with the "is" in the preceding part)
+
+Chris Simionovici (University of Toronto)
